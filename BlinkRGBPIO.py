@@ -1,4 +1,4 @@
-# Example using PIO to blink an RGB LED trio and raise an IRQ at 0.5Hz. PIO ile RGB LED üçlüsü yapmak ve 0,5 hz kesme uyarısı için örnek kod.
+# Example using PIO to blink an RGB LED trio and raise an IRQ. PIO ile RGB LED üçlüsü yapmak ve kesme uyarısı için örnek kod.
 # Led will be on for 1 second and off for 1 second. Multiple output pins were chosen to handle RGB LED trio with one StateMachine.
 # LED 1 saniye açık kalacak ve 1 saniye kapalı kalacak. Üçlü RGB LED'i tek StateMachine ile kullanmak için çoklu çıktı pini seçildi.
 
